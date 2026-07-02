@@ -72,7 +72,7 @@
       <div class="cave-text">
         <p class="label" style="display:block; margin-bottom: 1rem">La Cave</p>
         <h2 class="cave-title">
-          120 vins,<br>
+          120<strong class="cave-plus">+</strong> vins,<br>
           <span class="script-accent" style="font-size: clamp(2.2rem,4vw,3.5rem)">une région,</span>
           une passion.
         </h2>
@@ -218,6 +218,15 @@ const temoignages = [
 }
 
 .hero-label { display: block; margin-bottom: 2rem; }
+
+.hero-title .script-accent {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: clamp(3rem, 8.5vw, 6.8rem);
+  letter-spacing: 0.03em;
+  margin-top: 0.45rem;
+}
 
 .hero-title {
   font-family: var(--font-display);
@@ -382,6 +391,11 @@ const temoignages = [
   color: var(--dark-mid);
   line-height: 1.15;
   margin-bottom: 1.5rem;
+}
+
+.cave-plus {
+  font-weight: 900;
+  color: var(--gold);
 }
 
 .cave-body {
