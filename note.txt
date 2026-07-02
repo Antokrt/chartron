@@ -1,0 +1,122 @@
+PROMPT POUR CLAUDE — CRÉATION DU SITE "LA TABLE DES CHARTRONS"
+========================================================
+
+Crée-moi un site web pour mon restaurant "La Table des Chartrons", à Bordeaux, dans un style luxueux et éditorial inspiré de l'esthétique Renaissance italienne (façon studio de design haut de gamme).
+
+--------------------------------------------------------
+DIRECTION ARTISTIQUE
+--------------------------------------------------------
+
+Palette de couleurs : fond crème/beige clair (#F0E6D8 environ), sections sombres en marron très foncé/noir chocolat (#1a1310), touches dorées/bronze pour les accents et le texte de mise en valeur.
+
+Typographie :
+- Titres en grandes capitales, police serif haute et élégante type Didot/Bodoni (fort contraste pleins/déliés)
+- Un mot ou une phrase par titre en script italique manuscrit doré (effet "signature"), par exemple "Sustenance" dans l'exemple original — ici on peut utiliser des mots comme "Chartrons", "expériences", "accords"
+- Corps de texte en serif fin et aéré, centré, avec beaucoup d'espace autour
+
+Structure de page :
+- Hero plein écran, photo/texture sombre et picturale en fond (effet peinture à l'huile, marbré ou pierre ancienne), overlay sombre, titre centré en grand, sous-titre en script
+- Barre de navigation minimaliste en haut : logo centré, menu à gauche, téléphone + bouton réservation à droite
+- Sections alternées fond clair / fond sombre pour rythmer le scroll
+- Photos culinaires en gros plan, format carré ou portrait, avec grandes marges blanches
+- Petites illustrations décoratives fines façon gravure ancienne (angelots, ornements, soleils, grappes de raisin) en ligne dorée, utilisées avec parcimonie
+- Sections asymétriques avec superposition d'images (photo qui chevauche une autre, bandeau de texte en grand qui passe derrière les images)
+- Boutons discrets, rectangulaires, texte en petites capitales espacées, bordure fine
+
+Ambiance générale : élégance intemporelle, inspiration Renaissance et vignoble bordelais, sophistication feutrée, beaucoup d'espace blanc, palette restreinte crème/sombre/or.
+
+Technique : HTML/CSS (ou React), vraies polices Google Fonts serif (ex. Cormorant, Playfair Display ou EB Garamond pour le corps + Cormorant Garamond Italic ou Italiana pour les accents script).
+
+--------------------------------------------------------
+CONTENU DU SITE À INTÉGRER
+--------------------------------------------------------
+
+## IDENTITÉ
+Nom : La Table des Chartrons
+Slogan : "Le vin, la table, et le temps de vivre."
+Adresse : 14 rue Notre-Dame, 33000 Bordeaux
+Téléphone : 05 56 XX XX XX
+Email : contact@latabledeschartrons.fr
+Horaires : Mardi–samedi, 12h–14h / 19h–22h30 — Fermé dimanche et lundi
+
+## HERO (page d'accueil)
+Titre : "Au cœur des Chartrons, une table où le vin raconte l'histoire de l'assiette."
+Bouton CTA : "Réserver une table"
+
+## NOTRE HISTOIRE (page À propos)
+Née en 2019 dans une ancienne échoppe bordelaise du quartier des Chartrons, La Table des Chartrons est portée par le chef Antoine Vasseur et sa compagne sommelière, Camille Roy.
+
+Antoine a grandi entre les vignes du Médoc et les cuisines lyonnaises, où il a appris la rigueur classique avant de revenir s'installer à Bordeaux, sa ville natale. Camille, elle, a parcouru les vignobles de la région pendant dix ans en tant que caviste avant de rejoindre l'aventure.
+
+Ensemble, ils ont imaginé un lieu simple et chaleureux : une cuisine de marché, généreuse et précise, pensée pour accompagner les vins qu'ils aiment faire découvrir. Chaque assiette est conçue comme un dialogue entre le produit et le verre.
+
+La salle, avec ses pierres apparentes et son parquet ancien, garde l'âme du quartier négociant du XVIIIe siècle, tout en s'ouvrant sur une cuisine visible.
+
+## PHILOSOPHIE
+- Produits locaux et de saison (maraîchers de Blanquefort, pêcheurs d'Arcachon, éleveurs des Landes)
+- Carte des vins 100% bordelaise, petits producteurs
+- Cuisine qui évolue chaque mois
+- Salle à taille humaine (32 couverts)
+
+Sous-titre section cuisine : "Une cuisine de saison, pensée pour le verre."
+
+## LA CARTE (menu de saison — printemps/été)
+
+ENTRÉES
+- Asperges vertes des Landes, sabayon au sauternes — 14€
+- Tartare de bar d'Arcachon, agrumes et huile d'olive — 16€
+- Terrine de canard maison, chutney de figues — 12€
+
+PLATS
+- Pièce de bœuf de Bazas, jus corsé au cabernet, pommes grenailles — 28€
+- Filet de daurade, beurre blanc au sauvignon, légumes croquants — 26€
+- Risotto aux champignons de saison et copeaux de comté — 22€ (végétarien)
+
+FROMAGES & DESSERTS
+- Plateau de fromages affinés, sélection du fromager Michel Dubosc — 11€
+- Canelé revisité, glace vanille bourbon — 9€
+- Fondant au chocolat noir, cœur coulant au caramel beurre salé — 10€
+
+MENUS
+- Menu Déjeuner (entrée + plat ou plat + dessert) — 24€
+- Menu Découverte (entrée + plat + dessert) — 42€
+- Menu Accord Mets-Vins (5 services, verres compris) — 68€
+
+## LA CAVE
+Plus de 120 références bordelaises, sélectionnées par Camille Roy directement auprès des vignerons.
+
+Appellations mises en avant : Pessac-Léognan, Saint-Émilion Grand Cru, Margaux, Entre-deux-Mers (petits producteurs bio).
+
+Chaque samedi : "Le vin du vigneron", une bouteille présentée en salle par un producteur invité.
+
+Sous-titre section cave : "120 vins, une région, une passion."
+
+## TÉMOIGNAGES
+"Une adresse discrète mais terriblement efficace. Le tartare de bar était d'une fraîcheur incroyable." — Sophie M.
+
+"Le service est attentionné sans être guindé, et les conseils de Camille sur les vins sont précieux." — Julien R.
+
+"On sent que chaque plat est pensé pour le vin qui l'accompagne. Une vraie expérience." — Laura & Thomas
+
+## INFOS PRATIQUES
+Réservation conseillée, notamment le week-end.
+Groupes jusqu'à 12 personnes en semaine (privatisation possible du salon du fond).
+Accès : Tram ligne B, arrêt Chartrons — Parking Grand Théâtre à 5 min à pied.
+Terrasse ouverte d'avril à octobre (12 places).
+
+Réseaux sociaux : Instagram @latabledeschartrons — Facebook La Table des Chartrons
+
+Footer : "La Table des Chartrons — 14 rue Notre-Dame, 33000 Bordeaux — Fermé lundi & dimanche"
+
+--------------------------------------------------------
+PAGES SOUHAITÉES
+--------------------------------------------------------
+1. Accueil (hero + intro histoire + aperçu carte + CTA réservation)
+2. À propos (histoire + philosophie)
+3. La Carte (menu complet)
+4. La Cave (vins)
+5. Contact / Réservation (infos pratiques + formulaire)
+
+========================================================
+FIN DU PROMPT
+========================================================
